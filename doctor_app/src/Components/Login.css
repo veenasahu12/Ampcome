@@ -1,0 +1,137 @@
+.main_div {
+  position: relative;
+  width: 1368px;
+  height: 640px;
+  display: flex;
+  background: #ffffff;
+}
+
+.sub_heading {
+  position: absolute;
+  width: 471px;
+  height: 22px;
+  left: 100px;
+  top: 156px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: rgba(32, 55, 101, 0.8);
+}
+
+.left_heading {
+  position: absolute;
+  width: 292px;
+  height: 30px;
+  left: 180px;
+  top: 110px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 125%;
+  text-align: center;
+  color: #203765;
+}
+
+.img_tag {
+  position: absolute;
+  width: 300px;
+  height: 190px;
+  left: 95px;
+  top: 215px;
+}
+
+.left_sideDiv {
+  background: #e5e5e5;
+  width: 50%;
+}
+
+.right_sideDiv {
+  width: 50%;
+}
+
+.right_heading {
+  position: absolute;
+  width: 249px;
+  height: 28px;
+  left: 900px;
+  top: 205px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 125%;
+  color: #29375f;
+}
+
+.inp_field1 {
+  position: absolute;
+  width: 204px;
+  height: 40px;
+  left: 917px;
+  top: 260px;
+  border-radius: 9px;
+  padding-left: 3%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  border: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.inp_field2 {
+  position: absolute;
+  width: 204px;
+  height: 40px;
+  left: 917px;
+  top: 322px;
+  border-radius: 9px;
+  padding-left: 3%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  border: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.inp_field3 {
+  position: absolute;
+  width: 249px;
+  height: 40px;
+  left: 917px;
+  top: 380px;
+  border-radius: 9px;
+  padding-left: 3%;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  border: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.btn {
+  position: absolute;
+  background: #fc6964;
+  border-radius: 12px;
+  left: 917px;
+  top: 460px;
+  padding: 0.5%;
+  width: 249px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  border: white;
+  color: white;
+}

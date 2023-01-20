@@ -1,0 +1,144 @@
+.firstDiv {
+  background-color: #203765;
+}
+
+.heading {
+  height: 116px;
+  padding-top: 1%;
+  font-family: "Inter";
+  font-size: 34px;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  padding-right: 60%;
+}
+
+.sub_headings {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 135.19%;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  position: absolute;
+  width: 88px;
+  height: 22px;
+  left: 112px;
+  top: 58px;
+}
+
+.secondDiv {
+  margin-top: -1.5%;
+  margin-right: 34%;
+  width: 55%;
+}
+
+.secondDiv2 {
+  margin-top: -1.5%;
+  margin-right: 34%;
+  width: 54%;
+}
+
+.thirdDiv_main {
+  display: flex;
+  margin-left: 45px;
+  margin-top: 30px;
+}
+
+.thirdDiv1 {
+  width: 80%;
+}
+
+.third_Div2 {
+  width: 27%;
+  height: 450px;
+}
+
+.lastDiv {
+  margin-right: 450px;
+  margin-top: 20px;
+  width: 53%;
+  margin-bottom: 150px;
+}
+
+.container_Div {
+  width: 33%;
+  /* border: 1px solid black; */
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  margin-left: 65%;
+  margin-top: -95%;
+  background-color: white;
+  height: 550px;
+}
+
+.activity {
+  position: absolute;
+  width: 95px;
+  height: 24px;
+  left: 950px;
+  top: 146px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 135.19%;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(41, 55, 95, 0.4);
+}
+
+.image_tag {
+  margin-left: -200px;
+}
+
+.div1 {
+  display: flex;
+}
+
+.notification {
+  position: absolute;
+  width: 21.54px;
+  height: 28px;
+  left: 909px;
+  top: 165px;
+}
+
+.text_div{
+  display: flex;
+  gap: 2%;
+}
+
+.main{
+  margin-top: 24%;
+  margin-left: 25px;
+}
+
+.title{
+  font-size: 14px;
+}
+
+.subtitle{
+  color: gray;
+  font-size: 15px;
+  margin-left: -65px;
+  margin-top: -7px;
+}
+
+.subtitles{
+  color: gray;
+  font-size: 15px;
+  margin-left: 59px;
+  margin-top: -7px;
+  text-align: left;
+}
+.subtitlee{
+  color: gray;
+  font-size: 15px;
+  margin-left: 59px;
+  margin-top: -7px;
+  text-align: left;
+}
+.time{
+  color: gray;
+  font-size: 13px;
+}
